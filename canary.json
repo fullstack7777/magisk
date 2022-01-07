@@ -2,11 +2,11 @@
   "magisk": {
     "version": "23.0",
     "versionCode": "23000",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@b368d20076a30879ccd289b8a4766ba3b88da547/app-debug.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@b368d20076a30879ccd289b8a4766ba3b88da547/notes.md"
+    "link": "https://raw.githubusercontent.com/fullstack7777/magisk/main/app-release.apk",
+    "note": "https://raw.githubusercontent.com/fullstack7777/magisk/main/README.md"
   },
   "stub": {
     "versionCode": "23",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@b368d20076a30879ccd289b8a4766ba3b88da547/stub-release.apk"
+    "link": "https://raw.githubusercontent.com/fullstack7777/magisk/main/stub-release.apk"
   }
 }
