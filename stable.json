@@ -1,7 +1,7 @@
 {
   "magisk": {
     "version": "23.0",
-    "versionCode": "23000",
+    "versionCode": "23016",
     "link": "https://raw.githubusercontent.com/fullstack7777/magisk/main/app-release.apk",
     "note": "https://raw.githubusercontent.com/fullstack7777/magisk/main/README.md"
   },
